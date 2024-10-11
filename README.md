@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+Dhruv+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" alt="hi"  />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvparikh1&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvparikh1" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://hidhruv.vercel.app/](https://hidhruv.vercel.app/)
