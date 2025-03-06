@@ -18,8 +18,6 @@
 
 - 👨‍💻 All of my projects are available at [https://hidhruv.vercel.app/](https://hidhruv.vercel.app/)
 
-- 📫 How to reach me **dhruvparikh@icloud.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
